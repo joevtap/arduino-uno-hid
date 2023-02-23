@@ -1,4 +1,4 @@
-# Using Arduino Uno as a HID device
+# Using Arduino Uno as Human Interface Device
 
 ## Useful resources
 - [Updating the Atmega8U2 and 16U2 on an Uno or Mega2560 Using DFU](https://docs.arduino.cc/hacking/software/DFUProgramming8U2)
